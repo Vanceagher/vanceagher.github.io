@@ -1,0 +1,28 @@
+/* Style the body */
+html, body {
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #222;
+  color: rgb(26, 137, 227);
+  font-size: 30px;
+}
+
+/* Page Content */
+.content {
+  padding:40px;
+  text-align: center;
+}
+
+h1 {
+  font-size:  45px;
+}
+
+p {
+  font-size: 30px;
+}
